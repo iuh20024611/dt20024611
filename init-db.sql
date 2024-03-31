@@ -5,8 +5,8 @@ CREATE TABLE IF NOT EXISTS tblbookIUHX (
 );
 
 INSERT INTO tblbook (title, author) VALUES
-  ('DevOps', 'IUHX'),
-  ('Big Data', 'IUHX'),
-  ('Cloud Deployement', 'IUHX'),
-('Data Analysis', 'IUHX'),
-('Block Chain', 'IUHX');
+  ('DevOps', 'IUH20024611'),
+  ('Big Data', 'IUH20024611'),
+  ('Cloud Deployement', 'IUH20024611'),
+('Data Analysis', 'IUH20024611'),
+('Block Chain', 'IUH20024611');
